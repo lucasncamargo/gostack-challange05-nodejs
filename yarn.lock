@@ -1447,11 +1447,6 @@ csv-parse@*, csv-parse@^4.10.1:
   resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.10.1.tgz#1e26ba63d29c75e94d0eba6e9de9a8aaf89d72a6"
   integrity sha512-gdDJVchi0oSLIcYXz1H/VSgLE6htHDqJyFsRU/vTkQgmVOZ3S0IR2LXnNbWUYG7VD76dYVwdfBLyx8AX9+An8A==
 
-csv-parse@^4.10.1:
-  version "4.10.1"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.10.1.tgz#1e26ba63d29c75e94d0eba6e9de9a8aaf89d72a6"
-  integrity sha512-gdDJVchi0oSLIcYXz1H/VSgLE6htHDqJyFsRU/vTkQgmVOZ3S0IR2LXnNbWUYG7VD76dYVwdfBLyx8AX9+An8A==
-
 currently-unhandled@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/currently-unhandled/-/currently-unhandled-0.4.1.tgz#988df33feab191ef799a61369dd76c17adf957ea"
@@ -5117,9 +5112,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
